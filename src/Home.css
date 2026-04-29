@@ -1,0 +1,12 @@
+.description {
+    display: inline-flex;
+    flex-direction: column;
+    gap: 12px;
+    border-left: 4px solid #4f6ef7;
+    background-color: #e8eeff;
+    border-radius: 0 12px 12px 0;
+    padding: 24px;
+    margin-top: 30px;
+    max-width: 600px;
+    text-align: left;
+}
